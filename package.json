@@ -3,13 +3,13 @@
   "description": "React hook providing a DOM reference through a callback pattern.",
   "license": "MIT",
   "name": "@hoologic/use-ref-callback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "bugs": {
     "url": "https://github.com/hoologic/use-ref-callback/issues"
   },
   "devDependencies": {
-    "@types/react": "^16 || ^17 || ^18",
-    "typescript": "5.6.2"
+    "@types/react": ">=16.8",
+    "typescript": "5.7.3"
   },
   "files": [
     "index.d.ts",
@@ -24,7 +24,7 @@
     "useRefCallback"
   ],
   "peerDependencies": {
-    "react": "^16 || ^17 || ^18"
+    "react": ">=16.8"
   },
   "repository": {
     "type": "git",
