@@ -3,7 +3,7 @@
   "description": "React hook providing a DOM reference through a callback pattern.",
   "license": "MIT",
   "name": "@hoologic/use-ref-callback",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "bugs": {
     "url": "https://github.com/hoologic/use-ref-callback/issues"
   },
